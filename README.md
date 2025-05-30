@@ -58,9 +58,15 @@ Berenguer
 
 13. ¿Cómo podemos ver los permisos actuales de “nombre.txt”?
 
+![imagen](https://github.com/user-attachments/assets/0d46b793-787f-46b2-8a4c-7ea15d302164)
+
 14. Establece permisos de lectura y escritura de “nombre.txt” para el usuario “user” utilizando notación simbólica
 
+![imagen](https://github.com/user-attachments/assets/39a4c2f3-26b6-49e9-9917-addc222bfbff)
+
 15. Quita permisos de escritura de “nombre.txt” para “user” utilizando notación simbólica
+
+![imagen](https://github.com/user-attachments/assets/a66577ce-884c-4365-8c61-b3b834e368ba)
 
 16. Añade permiso de escritura y ejecución al propietario y grupo, y eliminamos permiso de ejecución a otros utilizando notación octal
 
