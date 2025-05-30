@@ -16,21 +16,23 @@
 
 5. Borra el directorio “target”
 
+![image](https://github.com/user-attachments/assets/4f69cbe0-4c28-4b59-bd55-6662b6b71fbc)
+
 6. Estando situado en “proyecto” ¿Cuál sería en este momento el resultado de ejecutar el comando “tree”?
 
-![image](https://github.com/user-attachments/assets/8ccaf535-a067-4531-9cad-7e1489a0b4be)
+![image](https://github.com/user-attachments/assets/3096ffc3-a401-4e4c-a240-bd414c70c1f4)
 
-7. Seguimos en “proyecto” crea un fichero llamado “tree.txt” que contenga el árbol de directorios dependientes de “proyecto”
+8. Seguimos en “proyecto” crea un fichero llamado “tree.txt” que contenga el árbol de directorios dependientes de “proyecto”
 
-8. Copia el archivo “tree.txt” a “recursos”
+9. Copia el archivo “tree.txt” a “recursos”
 
-9. Elimina el archivo “tree.txt” de la carpeta “proyecto”
+10. Elimina el archivo “tree.txt” de la carpeta “proyecto”
 
-10. Seguimos en “proyecto”, muestra cuántas líneas tiene el archivo “tree.txt”
+11. Seguimos en “proyecto”, muestra cuántas líneas tiene el archivo “tree.txt”
 
-11. Muestra las últimas 5 líneas del archivo “tree.txt”
+12. Muestra las últimas 5 líneas del archivo “tree.txt”
 
-12. Crea un fichero vacío llamado “nombre.txt”
+13. Crea un fichero vacío llamado “nombre.txt”
 
 12. Añade a “nombre.txt” tu nombre y tus apellidos en líneas separadas, es decir, en mi caso el archivo contendría:
 
