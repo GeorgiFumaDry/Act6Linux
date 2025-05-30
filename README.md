@@ -36,9 +36,15 @@
 
 11. Seguimos en “proyecto”, muestra cuántas líneas tiene el archivo “tree.txt”
 
+![imagen](https://github.com/user-attachments/assets/81900845-63e8-4231-9375-707ff81dd532)
+
 12. Muestra las últimas 5 líneas del archivo “tree.txt”
 
-13. Crea un fichero vacío llamado “nombre.txt”
+![imagen](https://github.com/user-attachments/assets/b8938c36-90e2-416b-9744-fb09d2c00a2e)
+
+12. Crea un fichero vacío llamado “nombre.txt”
+
+![imagen](https://github.com/user-attachments/assets/d6982868-388c-49a8-8446-124a84acb608)
 
 12. Añade a “nombre.txt” tu nombre y tus apellidos en líneas separadas, es decir, en mi caso el archivo contendría:
 
@@ -47,6 +53,8 @@ Alexandre
 Lopez
 
 Berenguer
+
+![imagen](https://github.com/user-attachments/assets/993da3a8-3c53-4614-ac8a-cb6e27e12ed9)
 
 13. ¿Cómo podemos ver los permisos actuales de “nombre.txt”?
 
