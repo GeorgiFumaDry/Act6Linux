@@ -90,10 +90,18 @@ Berenguer
 
 21. Añade “newuser” al grupo “nuevosusuarios”
 
+![imagen](https://github.com/user-attachments/assets/62f607ce-0b13-45b0-8acf-57ea2cc71f98)
+
 22. Muestra los grupos a los que pertenece el usuario “user2” (incluidos los gid’s)
+
+![imagen](https://github.com/user-attachments/assets/57012e14-d17e-4873-820c-88d7f057c36f)
 
 23. Haz los pasos necesarios para poder crear la carpeta “carpetauser2” utilizando el usuario “user2”
 
+![imagen](https://github.com/user-attachments/assets/36e2c294-761b-4d44-944e-9310db91396c)
+
 24. Borra el usuario “user2” y el grupo “smra”
+
+![imagen](https://github.com/user-attachments/assets/68b6c0ec-96fc-4a25-9f8c-d1ee387f5311)
 
 25. Limpia la pantalla 
