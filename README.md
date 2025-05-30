@@ -4,7 +4,7 @@
 
 2. Crea el directorio “test” y “target” utilizando trayectorias relativas y en una única sentencia.
 
-![image](https://github.com/user-attachments/assets/56285a0f-45f6-4acf-9178-248b19240ffa)
+![image](https://github.com/user-attachments/assets/46e32bef-e8c9-4152-8d54-98ccff76273d)
 
 3. Desde “src” cambia el nombre de “resources” por “recursos”
 
