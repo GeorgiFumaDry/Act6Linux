@@ -104,4 +104,7 @@ Berenguer
 
 ![imagen](https://github.com/user-attachments/assets/68b6c0ec-96fc-4a25-9f8c-d1ee387f5311)
 
-25. Limpia la pantalla 
+25. Limpia la pantalla
+
+![imagen](https://github.com/user-attachments/assets/0bf36d68-7bd0-4b14-9eb9-3706bbb044e6)
+
