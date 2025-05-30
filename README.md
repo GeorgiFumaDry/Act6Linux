@@ -12,9 +12,9 @@
 
 4. Sitúa “main” dentro de “test”
 
-5. Borra el directorio “target”
-
 ![image](https://github.com/user-attachments/assets/c9b91be2-a6f1-45e9-8bd3-34eff091b3af)
+
+5. Borra el directorio “target”
 
 6. Estando situado en “proyecto” ¿Cuál sería en este momento el resultado de ejecutar el comando “tree”?
 
