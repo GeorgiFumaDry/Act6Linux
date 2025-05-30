@@ -24,9 +24,15 @@
 
 8. Seguimos en “proyecto” crea un fichero llamado “tree.txt” que contenga el árbol de directorios dependientes de “proyecto”
 
+![imagen](https://github.com/user-attachments/assets/d06a3945-bf18-4cfd-88e1-eec3a2e648ff)
+
 9. Copia el archivo “tree.txt” a “recursos”
 
+![imagen](https://github.com/user-attachments/assets/95f764d1-7f61-4aab-bf6b-9ff4f224febc)
+
 10. Elimina el archivo “tree.txt” de la carpeta “proyecto”
+
+![imagen](https://github.com/user-attachments/assets/89baf8f7-b89f-4c3f-88d1-9332f8fb9dfa)
 
 11. Seguimos en “proyecto”, muestra cuántas líneas tiene el archivo “tree.txt”
 
