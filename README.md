@@ -70,13 +70,23 @@ Berenguer
 
 16. Añade permiso de escritura y ejecución al propietario y grupo, y eliminamos permiso de ejecución a otros utilizando notación octal
 
+![imagen](https://github.com/user-attachments/assets/b48e4d6a-2e8b-490a-901a-a3fe53738477)
+
 17. Haz que todo el mundo pueda leer y escribir en el archivo utilizando notación octal.
+
+![imagen](https://github.com/user-attachments/assets/948d06d6-6647-463e-ae1e-783fab313e9d)
 
 18. Crea el usuario “user2” (password: Som1234), su grupo de referencia tiene que ser smra
 
+![imagen](https://github.com/user-attachments/assets/8ca4a6ac-a832-475d-b41b-2495b839c7a8)
+
 19. Cambia el nombre de “user” por “newuser”
 
+![imagen](https://github.com/user-attachments/assets/f4e41def-bb4c-4fe5-9daa-a754e7a2c4f8)
+
 20. Cambia el password de “newuser” por Som12345
+
+![imagen](https://github.com/user-attachments/assets/5b5a3a8f-0b13-4e73-9b46-357628d542ec)
 
 21. Añade “newuser” al grupo “nuevosusuarios”
 
